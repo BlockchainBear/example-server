@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NFT Supreme
 
-You can use the [editor on GitHub](https://github.com/BlockchainBear/example-server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the collection of the most rare and valuabe Digital NFT's on the market
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -22,6 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+<nft-card contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenId="33271220540992826225097820539128178648770545811899996650803447164948696793089"> </nft-card> <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 [Link](url) and ![Image](src)
 ```
